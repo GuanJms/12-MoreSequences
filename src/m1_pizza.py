@@ -2,23 +2,22 @@
 This module lets you practice:
   -- ITERATING (i.e. LOOPING) through a SEQUENCE
   -- Using OBJECTS
-  -- DEFINING functions
+  -- DEFINING functionsr®®
   -- CALLING functions
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
          Mark Hays, Amanda Stouder, Aaron Wilkin, their colleagues,
-         and PUT_YOUR_NAME_HERE.
-"""  # TODO: 1. PUT YOUR NAME IN THE ABOVE LINE.
+         and Shengjun Guan.
+"""  # DONE: 1. PUT YOUR NAME IN THE ABOVE LINE.
 
 import rosegraphics as rg
 import math
-
 
 def main():
     """ Calls the   TEST   functions in this module. """
 
     # -------------------------------------------------------------------------
-    # STUDENTS: Do the work in this module as follows.
+    # STUDENTS: Do the worƒk in this module as follows.
     #   Otherwise, you will be overwhelmed by the output.
     #
     #   For each function that you implement:
