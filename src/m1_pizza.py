@@ -2,7 +2,7 @@
 This module lets you practice:
   -- ITERATING (i.e. LOOPING) through a SEQUENCE
   -- Using OBJECTS
-  -- DEFINING functionsr®®
+  -- DEFINING functions
   -- CALLING functions
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
